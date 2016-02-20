@@ -11,11 +11,11 @@ load img by order
 	<img src="" alt="" data-lazy="http://tw.img.tg.gm99.com/u/2016/0113/13152755UhpMT.jpg">
 
 	<img src="" alt=""  data-lazy="http://tw.img.tg.gm99.com/u/2016/0113/13162229YLYuh.jpg">
-```html
+```
 
 ##simply use
 ```javascript
   	<script>
 			$('div,img').imageLoadOrder();
 	</script>
-```javascript
+```
